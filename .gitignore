@@ -8,3 +8,5 @@ ParLambdaNat*
 PrintLambdaNat*
 SkelLambdaNat*
 TestLambdaNat*
+.aider*
+*/dist-newstyle/*
