@@ -33,6 +33,7 @@ library
     , array
     , containers
     , mtl
+    , template-haskell
   default-language: Haskell2010
 
 executable LambdaNat-exe
