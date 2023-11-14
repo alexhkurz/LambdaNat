@@ -1,2 +1,10 @@
 .DS_Store
-
+AbsLambdaNat*
+DocLambdaNat*
+ErrM*
+LexLambdaNat*
+Makefile
+ParLambdaNat*
+PrintLambdaNat*
+SkelLambdaNat*
+TestLambdaNat*
